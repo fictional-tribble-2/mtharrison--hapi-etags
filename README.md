@@ -1,4 +1,7 @@
 # hapi-etags
+
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/mtharrison--hapi-etags.svg)](https://www.staging.guardrails.io)
+
 ---
 
 hapi will automatically generate ETag headers for your responses when you use the file handler or `reply.file()` method. But if you're using any other kind of response (such as JSON, HTML, text etc) you won't get ETags for free. This plugin fixes that!
