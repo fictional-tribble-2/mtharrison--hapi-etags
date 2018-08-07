@@ -1,6 +1,6 @@
 # hapi-etags
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/mtharrison--hapi-etags.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/mtharrison--hapi-etags.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/mtharrison--hapi-etags.svg)](https://www.guardrails.io)
 
 ---
 
